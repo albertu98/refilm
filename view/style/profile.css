@@ -1,0 +1,29 @@
+.form {
+    border-radius: 5%;
+}
+
+.btn-primary {
+    color: #142d4c;
+    background: none;
+    border-color: #142d4c;
+}
+
+.btn-primary:hover {
+    color: #ececec;
+    background: #142d4c;
+    border-color: #142d4c;
+    font-size: 1.1em;
+}
+
+#btn-card {
+    color: #142d4c;
+    background: none;
+    border-color: #142d4c;
+}
+
+#btn-card:hover {
+    color: #ececec;
+    background: #142d4c;
+    border-color: #142d4c;
+    font-size: 1.1em;
+}

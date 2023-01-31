@@ -1,0 +1,38 @@
+
+body {
+    background: #ececec;
+    font-family: Courier;
+    color: #142d4c;
+
+}
+
+.form {
+    -webkit-box-shadow: 66px 73px 80px -26px rgba(20, 45, 76, 0.3);
+    -moz-box-shadow: 66px 73px 80px -26px rgba(20, 45, 76, 0.3);
+    box-shadow: 66px 73px 80px -26px rgba(20, 45, 76, 0.3);
+    height: fit-content;
+    border-radius: 5%;
+}
+
+.btn-primary {
+    color: #142d4c;
+    background: none;
+    border-color: #142d4c;
+    border-radius: 45%;
+}
+
+.btn-primary:hover {
+    color: #ececec;
+    background: #142d4c;
+    border-color: #142d4c;
+    border-radius: 70%;
+}
+
+
+
+
+
+
+
+
+
