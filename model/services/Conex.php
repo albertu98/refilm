@@ -14,8 +14,8 @@
             $this->host = 'mysql';
             $this->db = "refilm";
             $this->dsn = 'mysql:host=' . $this->host . ';dbname=' . $this->db . ';';
-            $this->user = 'hector';
-            $this->pass = "123456";
+            $this->user = 'albert';
+            $this->pass = "91!Zb$9g";
         }
 
         public function openConnection()
