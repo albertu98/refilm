@@ -14,10 +14,10 @@ services:
   mysql:
     image: mysql:latest
     environment:
-      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_ROOT_PASSWORD: 91!Zb$9g
       MYSQL_DATABASE: refilm
-      MYSQL_USER: hector
-      MYSQL_PASSWORD: 123456
+      MYSQL_USER: albert
+      MYSQL_PASSWORD: 91!Zb$9g
     ports:
       - 9999:3306
 
